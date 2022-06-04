@@ -10,7 +10,10 @@ nav {
 	text-align: center;
 }
 nav a {color: white;}
-
+nav a:hover{
+	background-color: #DDD;
+	color: black;
+}
 
 h1{
 	color: red;
