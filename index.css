@@ -1,0 +1,20 @@
+#Menu_text{
+	text-align: center;
+	background-color: #1abc9c;
+	padding: 80px;
+}
+
+nav {
+	background-color: #333;
+	padding: 14px 20px;
+	text-align: center;
+}
+
+
+
+h1{
+	color: red;
+}
+h2{
+	color: blue;
+}
