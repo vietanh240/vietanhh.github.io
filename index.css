@@ -21,3 +21,13 @@ h1{
 h2{
 	color: blue;
 }
+.avatar{
+	border-radius: 100px;
+}
+.button{
+	margin-bottom: 15px;
+	width: 300px;
+	padding: 15px 0 15px 0;
+	border-radius: 100px;
+	cursor: pointer;
+}
