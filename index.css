@@ -1,7 +1,9 @@
 #Menu_text{
 	text-align: center;
-	background-color: #1abc9c;
+	background-color: #AFB8EC;
 	padding: 80px;
+}
+#xxx{background-color: #EBEBEC;
 }
 
 nav {
@@ -30,5 +32,9 @@ h2{
 	padding: 15px 0 15px 0;
 	border-radius: 100px;
 	cursor: pointer;
-	background-color: #008B8B;
+	background-color: #7A89E5;
+}
+button:hover{
+	background-color: #141F64;
+	color: #DDD;
 }
