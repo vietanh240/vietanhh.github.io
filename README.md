@@ -1,3 +1,2 @@
-# WomenDay
-Link web demo: https://ngoctientnt.github.io/WomenDay/ \
+# MyLove
 Có thể liên hệ mình tại: https://beacons.ai/ngoctientnt/
